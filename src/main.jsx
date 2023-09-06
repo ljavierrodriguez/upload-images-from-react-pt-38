@@ -6,6 +6,8 @@ import 'bootstrap/dist/js/bootstrap.bundle'
 
 import '@fortawesome/fontawesome-free/css/all.min.css'
 
+import './styles/global.css'
+
 import App from './App'
 
 
